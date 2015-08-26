@@ -1,0 +1,50 @@
+[
+  {
+    "title" : "Two Lane Blacktop",
+    "storyline" : "A story about driving",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/4/4e/TwoLanePoster.jpg",
+    "trailer_youtube_url" : "https://www.youtube.com/watch?v=yPbqV9CgV9s",
+    "duration" : 102,
+    "rating" : 4
+  },
+  {
+    "title" : "synecdoche, new york",
+    "storyline" : "a part is used for the whole",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/6/6a/Synecdoche%2C_New_York_poster.jpg",
+    "trailer_youtube_url" : "https://www.youtube.com/watch?v=XIizh6nYnTU",
+    "duration" : 124,
+    "rating" : 5
+  },
+  {
+    "title" : "Listen Up, Philip",
+    "storyline" : "You have to be a difficult person to be a good writer",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/3/36/Listen_Up_Philip_poster.jpg",
+    "trailer_youtube_url" : "www.youtube.com/watch?v=lyErKmF6xdo",
+    "duration" : 110,
+    "rating" : 4
+  },
+  {
+    "title" : "Dark Star",
+    "storyline" : "The spaced out odyssey",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/9/98/DarkStarposter.jpg",
+    "trailer_youtube_url" : "www.youtube.com/watch?v=gSccwmmrS5A",
+    "duration" : 83,
+    "rating" : 4
+  },
+  {
+    "title" : "Conan the Barbarian",
+    "storyline" : "Slave. Barbarian. Warrior. Thief... Conan.",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/8/81/Conan_the_Barbarian_by_Renato_Casaro.jpg",
+    "trailer_youtube_url" : "www.youtube.com/watch?v=xwdYd_RdLCQ",
+    "duration" : 129,
+    "rating" : 2
+  },
+  {
+    "title" : "Margin Call",
+    "storyline" : "Be first. Be smarter. Or cheat.",
+    "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/6/62/Margin_Call.jpg",
+    "trailer_youtube_url" : "www.youtube.com/watch?v=Y2DqFRsPrns",
+    "duration" : 109,
+    "rating" : 5
+  }
+]
